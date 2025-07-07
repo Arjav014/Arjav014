@@ -28,8 +28,8 @@ Here are a few of my highlighted projects:
 
 ## 📈 GitHub Stats
 
-![Arjav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjavJain-1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjavJain-1&layout=compact&theme=radical)
+![Arjav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjav014&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjav014&layout=compact&theme=radical)
 
 ---
 
