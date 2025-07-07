@@ -34,7 +34,8 @@ Here are a few of my highlighted projects:
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: arjav2768@gmail.com  
+- 📧 Email: arjav2768@gmail.com
+- 🧠 [LeetCode](https://leetcode.com/arjav2768/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arjavjain014/)
 
 ---
