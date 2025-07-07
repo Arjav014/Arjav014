@@ -6,7 +6,6 @@
 ---
 
 ## 🧰 Tech Stack
-## 🧰 Tech Stack
 - 💻 **Languages:** JavaScript, TypeScript, Python, C++, Java  
 - 🌐 **Frontend:** React.js, Next.js, Tailwind CSS, HTML/CSS, Bootstrap  
 - 🛠️ **Backend:** Node.js, Express.js, Flask, REST APIs, Prisma ORM  
