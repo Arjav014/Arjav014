@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arjav Jain
 
-🎓 I'm a 3rd-year Computer Science student and a passionate **Fullstack Developer** with a growing interest in **Data Science**.  
-💼 Currently working as a **Data Analytics Intern**, blending software development with data-driven insights.
+🎓 I'm a 3rd-year Computer Science student and a passionate **Fullstack Developer** with a growing interest in **AI**.  
+💼 Worked as a **Data Analytics Intern**, blending software development with data-driven insights.
 
 ---
 
