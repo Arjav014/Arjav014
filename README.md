@@ -109,7 +109,7 @@ Fun Fact:   I love building real-time interactive web applications!
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjav014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   &nbsp;
-  <img height="180" src="https://leetcard.jacoblin.cool/arjav2768?theme=dark&font=Inter&border=0" alt="LeetCode Stats"/>
+  <img height="180" src="https://leetcard.jacoblin.cool/arjavjain014?theme=dark&font=Inter&border=0" alt="LeetCode Stats"/>
 </div>
 ---
 
